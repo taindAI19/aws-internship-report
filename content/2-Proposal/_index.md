@@ -51,7 +51,7 @@ The MVP is a **fully serverless architecture**, focusing on scalability, maintai
 - **PrivateLink** for secure communication between Lambda and backend services.  
 - **WAF + IAM policies** for traffic filtering and role-based access control.  
 
-![APT Magic MVP Architecture](/images/2-Proposal/digram_architecture.jpeg)
+![APT Magic MVP Architecture](/images/2-Proposal/mvp_architecture.png)
 
 ---
 
@@ -73,7 +73,7 @@ In the next phase, APT Magic will evolve into an **AI orchestration platform**, 
 - **CI/CD + MLOps**
   - **CodePipeline + CodeBuild + CloudFormation** for infrastructure deployment and automation.  
 
-![APT Magic Future Architecture](/images/aptMagic_future.png)
+![APT Magic Future Architecture](/images/2-Proposal/Future_design.png)
 
 ---
 

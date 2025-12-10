@@ -52,7 +52,7 @@ MVP được xây dựng theo hướng **hoàn toàn serverless**, tập trung v
 - **PrivateLink** cho kết nối an toàn giữa Lambda và backend services.  
 - **WAF + IAM** để lọc truy cập và kiểm soát quyền chi tiết.  
 
-![APT Magic MVP Architecture](/images/2-Proposal/AI_Image_Restore.jpeg)
+![APT Magic MVP Architecture](/images/2-Proposal/mvp_architecture.png)
 
 ---
 
@@ -74,7 +74,7 @@ MVP được xây dựng theo hướng **hoàn toàn serverless**, tập trung v
 - **CI/CD + MLOps**
   - **CodePipeline + CodeBuild + CloudFormation** để triển khai hạ tầng tự động.  
 
-![APT Magic Future Architecture](/images/2-Proposal/digram_architecture.jpeg)
+![APT Magic Future Architecture](/images/2-Proposal/Future_design.png)
 
 ---
 
